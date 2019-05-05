@@ -1,5 +1,5 @@
 # Text-Mining
-Text mining wiht instagram (#Huangshan) metadata
+Text mining with Instagram (#Huangshan) metadata
 - hashtag analysis
 - sentiment analysis
 - association rule analysis
